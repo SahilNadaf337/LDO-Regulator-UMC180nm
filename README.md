@@ -108,9 +108,9 @@ Transient response was evaluated across PVT conditions to verify the stability a
 
 ## Tools and Technology
 
-- Cadence Virtuoso
-- Cadence Spectre
-- Siemens Calibre
+- Cadence Virtuoso for Schematic Design and Layout
+- Cadence Spectre for Circuit Simulation
+- Cadence Assura for Physical Verification
 - UMC 180nm CMOS Technology
 
 ## Key Features
